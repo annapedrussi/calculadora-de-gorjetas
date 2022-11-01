@@ -52,7 +52,7 @@ body{
 .formSelect{
     width: 180px;
     padding: 5px;
-    font-size: 10px;
+    font-size: 14px;
 }
 .formSubmit{
     text-transform: uppercase;
@@ -65,4 +65,9 @@ body{
     height: 50px;
     font-size: 17px;
     color: white;
+}
+#totalTip{
+    font-size: 18px;
+    margin-top: 5px;
+    text-align: center;
 }
